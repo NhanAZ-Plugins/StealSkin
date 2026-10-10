@@ -1,11 +1,11 @@
 ---
 name: StealSkin
-version: 0.0.2
+version: 0.0.3
 main: NhanAZ\StealSkin\Main
 api: 5.0.0
-website: https://github.com/NhanAZ
+website: https://github.com/NhanAZ-Plugins/StealSkin
 author: NhanAZ
-description: Steal someone's skin
+description: Copy an online player's skin using their exact name
 
 commands:
   stealskin:
